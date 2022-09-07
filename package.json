@@ -1,0 +1,20 @@
+{
+    "name": "pertemuan-2",
+    "version": "1.0.0",
+    "description": "belajar npm",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js",
+        "fol": "ls",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ramdhani Arya",
+    "license": "ISC",
+    "dependencies": {
+        "validator": "^13.7.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
